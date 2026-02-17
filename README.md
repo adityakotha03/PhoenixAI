@@ -19,10 +19,14 @@ A personal AI assistant framework with tool calling capabilities, supporting bot
 
 1. Clone the repository
 
+```bash
+git clone https://github.com/adityakotha03/PhoenixAI.git
+```
+
 2. Install dependencies:
 
 ```bash
-pip install -r requirements_discord.txt
+pip install -r requirements.txt
 ```
 
 3. Configure environment variables:
